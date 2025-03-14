@@ -25,19 +25,14 @@ Features
     Highlights specific landmarks (e.g., fingertips) for gesture recognition.
     Draws bounding boxes and landmarks with customizable line thickness and colors.
 
-Face Detection & Recognition
+😊 Face Detection
 
     Implements MediaPipe Face Mesh for real-time facial landmark detection.
     Detects multiple faces and accurately tracks their movements.
     Draws bounding boxes and key facial features for visualization.
     Provides real-time face tracking and recognition.
 
-🏃‍♂️ Pose Detection
 
-    Implements MediaPipe Pose for full-body pose estimation.
-    Detects and tracks body key points & connections.
-    Draws pose landmarks and connections for visualization.
-    Identifies key body parts like eyes, nose, hands, elbows, and legs.
 
 Technologies Used
 
