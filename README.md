@@ -2,6 +2,7 @@ Advanced Computer Vision Techniques with OpenCV
 
 This repository contains implementations of advanced computer vision techniques using OpenCV 3 and MediaPipe. The code was developed step by step while following tutorials, providing a hands-on approach to understanding key concepts and functionalities in computer vision.
 Features
+
 🧑‍💻 Face Mesh Detection
 
     Utilizes MediaPipe Face Mesh for precise facial landmark detection.
