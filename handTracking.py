@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import time
 
-vidObj = cv2.VideoCapture(2)
+vidObj = cv2.VideoCapture(0)
 
 mpHands=mp.solutions.hands #like a formality , the constructer does 2 thing either scan and conf lv check, if the inital condition is false 
 hands=mpHands.Hands(min_detection_confidence=0.70, min_tracking_confidence=0.50)
